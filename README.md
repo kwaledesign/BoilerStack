@@ -1,2 +1,4 @@
 # BoilerStack
-Boilerplate AngularJS application built on Gulp, Browserify, and LibSass  
+
+[Originally fork](https://gihub.com/kwaledesign/angularjs-gulp-broserify-boilerplate)
+
