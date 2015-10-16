@@ -1,4 +1,4 @@
 # BoilerStack
 
-[Originally fork](https://gihub.com/kwaledesign/angularjs-gulp-broserify-boilerplate)
+[Original fork](https://gihub.com/kwaledesign/angularjs-gulp-broserify-boilerplate)
 
